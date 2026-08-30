@@ -1,0 +1,14 @@
+# Environment variables (DO NOT COMMIT!)
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Uploads and generated files
+qrcodes/
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
